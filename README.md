@@ -1,15 +1,13 @@
-# Elite101-PreWork
+# Introduction
 
-This repository contains my pre-work project for the Elite 101 Course at Code2College.<br/>
-The pre-work is a python chatbot.<br/>
-This is a line that was added from Repl.it.<br/>
-This is a line from CodeSandbox.io.
 
-## This section is added to the new branch
+This is a repository created by Eireen
 
-Ryan just changed this in GitHub.
 
-This branch will be pushed to the repository as a new branch.<br/>
-You can add anything here to test it.
+## Usage
 
-## This is a new heading Level 1 line
+
+Run this command to execute the application:
+
+
+`python Eireen.py`
